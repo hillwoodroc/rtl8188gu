@@ -14,7 +14,7 @@
  *****************************************************************************/
 
 #include "mp_precomp.h"
-#include "phydm_precomp.h"
+#include "../phydm_precomp.h"
 
 #if (defined(CONFIG_BB_TXBF_API))
 #if (RTL8822B_SUPPORT == 1)

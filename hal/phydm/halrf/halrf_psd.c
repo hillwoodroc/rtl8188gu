@@ -17,7 +17,7 @@
 // include files
 //============================================================
 #include "mp_precomp.h"
-#include "phydm_precomp.h"
+#include "../phydm_precomp.h"
 
 
 #if (DM_ODM_SUPPORT_TYPE & ODM_WIN)

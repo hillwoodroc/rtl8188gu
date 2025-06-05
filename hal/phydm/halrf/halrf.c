@@ -18,7 +18,7 @@
  * ************************************************************ */
 
 #include "mp_precomp.h"
-#include "phydm_precomp.h"
+#include "../phydm_precomp.h"
 
 void halrf_basic_profile(
 	void			*p_dm_void,

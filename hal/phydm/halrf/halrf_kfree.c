@@ -17,7 +17,7 @@
 /*include files*/
 /*============================================================*/
 #include "mp_precomp.h"
-#include "phydm_precomp.h"
+#include "../phydm_precomp.h"
 
 
 /*<YuChen, 150720> Add for KFree Feature Requested by RF David.*/
